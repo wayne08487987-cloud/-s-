@@ -1,0 +1,7 @@
+{
+  "name": "阿爸健康生活點餐",
+  "description": "結合營養管理與低碳高蛋白便當的智慧點餐平台，提供客製化營養建議與 3 天窈窕體驗管理。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
